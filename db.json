@@ -1,4 +1,19 @@
-{
+{   
+    "carousel": [
+   { 
+      "id": "1",
+      "title": "GROUP_NORD",
+      "subTitle": "Distribuidora de bebidas",
+      "lowTitle": "Desde 2023",
+      "image": "https://images2.alphacoders.com/473/473240.jpg"
+   },
+   { "id": "2",
+      "title": "GROUP_NORD",
+      "subTitle": "Distribuidora de perfumes",
+      "lowTitle": "Desde 2023",
+      "image": "https://images3.alphacoders.com/641/641460.jpg"
+   }
+],
     "produtos": [
   {
     "id": "1",
