@@ -27,15 +27,15 @@
     "image3": "https://a-static.mlcdn.com.br/800x560/monitor-gamer-aoc-g2-hero-24-led-widescreen-full-hd-hdmi-vga-ips-144hz-1ms/magazineluiza/225531500/9081239ff20460954dee450aca620844.jpg"
   },
   {
-    "id": "2",
-    "category": "10",
-    "description": "Monitor para PC AOC 22B1HM5 21,5” LCD/LED - Widescreen Full HD HDMI VGA" ,
-    "price": "R$ 440,10",
-    "promotion": "10%",
-    "image": "https://a-static.mlcdn.com.br/800x560/monitor-para-pc-aoc-22b1hm5-215-lcd-led-widescreen-full-hd-hdmi-vga/magazineluiza/232042800/b98dcc6de9a285391cc7cbd27cac7ed0.jpg",
-    "image1": "https://a-static.mlcdn.com.br/800x560/monitor-para-pc-aoc-22b1hm5-215-lcd-led-widescreen-full-hd-hdmi-vga/magazineluiza/232042800/d1eb5184ff7bdbe7e043614542b51967.jpg",
-    "image2": "https://a-static.mlcdn.com.br/800x560/monitor-para-pc-aoc-22b1hm5-215-lcd-led-widescreen-full-hd-hdmi-vga/magazineluiza/232042800/1ba675947f212f5a1b9b6cf01f95d9d6.jpg",
-    "image3": "https://a-static.mlcdn.com.br/800x560/monitor-para-pc-aoc-22b1hm5-215-lcd-led-widescreen-full-hd-hdmi-vga/magazineluiza/232042800/fd621ff071a12834883144cd0d7e4807.jpg"
+    "id": "6",
+    "category": "20",
+    "description": "Jogo God of War Hits - PS4 - SONY" ,
+    "price": "R$ 92,91",
+    "promotion": "7%",
+    "image": "https://a-static.mlcdn.com.br/800x560/jogo-god-of-war-hits-ps4-sony/webfones2/17921/4150659e1058f816e3df28fc67e5ba24.jpeg",
+    "image1": "https://a-static.mlcdn.com.br/800x560/jogo-god-of-war-hits-ps4-sony/webfones2/17921/916dc7570643d93c99e90481cb9effd0.jpeg",
+    "image2": "",
+    "image3": ""
   },
   {
     "id": "3",
@@ -49,17 +49,6 @@
     "image3": "https://a-static.mlcdn.com.br/800x560/teclado-magnetico-gamer-redragon-kumara-pro-rgb-switch-red-abnt2-preto-k552rgb-pro-pt-red/kabum/447294/8c3c5dffe17415bd3a44d79d91947e9f.jpeg"
   },
   {
-    "id": "4",
-    "category": "10",
-    "description": "Mouse Sem Fio Logitech Signature M650, 2000 DPI, Compacto, 5 Botões, Silencioso, Bluetooth, USB, Grafite - 910-006250" ,
-    "price": "R$ 189,99",
-    "promotion": "15%",
-    "image": "https://a-static.mlcdn.com.br/800x560/mouse-sem-fio-logitech-signature-m650-2000-dpi-compacto-5-botoes-silencioso-bluetooth-usb-grafite-910-006250/kabum/303805/b72644d51ce09e0e65a16faaef75c798.jpeg",
-    "image1": "https://a-static.mlcdn.com.br/800x560/mouse-sem-fio-logitech-signature-m650-2000-dpi-compacto-5-botoes-silencioso-bluetooth-usb-grafite-910-006250/kabum/303805/eaa329dcf236bcc96133b0eefb0aebd9.jpeg",
-    "image2": "https://a-static.mlcdn.com.br/800x560/mouse-sem-fio-logitech-signature-m650-2000-dpi-compacto-5-botoes-silencioso-bluetooth-usb-grafite-910-006250/kabum/303805/a63b15f3b3009a26d56d4ee808f8fe77.jpeg",
-    "image3": "https://a-static.mlcdn.com.br/800x560/mouse-sem-fio-logitech-signature-m650-2000-dpi-compacto-5-botoes-silencioso-bluetooth-usb-grafite-910-006250/kabum/303805/c2e8b356c7662ceb8ab52c2f6a7f1205.jpeg"
-  },
-  {
     "id": "5",
     "category": "20",
     "description": "Jogo Marvels Spider-Man GOTY Edition para PS4 - Insomniac Games" ,
@@ -71,15 +60,15 @@
     "image3": "https://a-static.mlcdn.com.br/800x560/jogo-marvels-spider-man-goty-edition-para-ps4-insomniac-games/magazineluiza/043184200/251a7584e2a0112065389f6096ebcbe1.jpg"
   },
   {
-    "id": "6",
-    "category": "20",
-    "description": "Jogo God of War Hits - PS4 - SONY" ,
-    "price": "R$ 92,91",
-    "promotion": "7%",
-    "image": "https://a-static.mlcdn.com.br/800x560/jogo-god-of-war-hits-ps4-sony/webfones2/17921/4150659e1058f816e3df28fc67e5ba24.jpeg",
-    "image1": "https://a-static.mlcdn.com.br/800x560/jogo-god-of-war-hits-ps4-sony/webfones2/17921/916dc7570643d93c99e90481cb9effd0.jpeg",
-    "image2": "",
-    "image3": ""
+    "id": "2",
+    "category": "10",
+    "description": "Monitor para PC AOC 22B1HM5 21,5” LCD/LED - Widescreen Full HD HDMI VGA" ,
+    "price": "R$ 440,10",
+    "promotion": "10%",
+    "image": "https://a-static.mlcdn.com.br/800x560/monitor-para-pc-aoc-22b1hm5-215-lcd-led-widescreen-full-hd-hdmi-vga/magazineluiza/232042800/b98dcc6de9a285391cc7cbd27cac7ed0.jpg",
+    "image1": "https://a-static.mlcdn.com.br/800x560/monitor-para-pc-aoc-22b1hm5-215-lcd-led-widescreen-full-hd-hdmi-vga/magazineluiza/232042800/d1eb5184ff7bdbe7e043614542b51967.jpg",
+    "image2": "https://a-static.mlcdn.com.br/800x560/monitor-para-pc-aoc-22b1hm5-215-lcd-led-widescreen-full-hd-hdmi-vga/magazineluiza/232042800/1ba675947f212f5a1b9b6cf01f95d9d6.jpg",
+    "image3": "https://a-static.mlcdn.com.br/800x560/monitor-para-pc-aoc-22b1hm5-215-lcd-led-widescreen-full-hd-hdmi-vga/magazineluiza/232042800/fd621ff071a12834883144cd0d7e4807.jpg"
   },
   {
     "id": "7",
@@ -93,26 +82,15 @@
     "image3": "https://a-static.mlcdn.com.br/800x560/mortal-kombat-11-aftermath-para-xbox-one-wb-games-lancamento/magazineluiza/043186500/d501cedc6c014102c8cac5a62a0ff5e2.jpg"
   },
   {
-    "id": "8",
-    "category": "20",
-    "description": "EA Sports FC 24 para PS4" ,
-    "price": "R$ 316,71",
-    "promotion": "12%",
-    "image": "https://a-static.mlcdn.com.br/800x560/ea-sports-fc-24-para-ps4/magazineluiza/237875300/db31027013074f86842abcb78ac66353.jpg",
-    "image1": "https://a-static.mlcdn.com.br/800x560/ea-sports-fc-24-para-ps4/magazineluiza/237875300/eb40731223c4e7c22fbd7a720f799ed1.jpg",
-    "image2": "https://a-static.mlcdn.com.br/800x560/ea-sports-fc-24-para-ps4/magazineluiza/237875300/8c204d207c46bbede73580b7077e1a67.jpg",
-    "image3": "https://a-static.mlcdn.com.br/800x560/ea-sports-fc-24-para-ps4/magazineluiza/237875300/8b23e8ee68c7d7618db98a0e72a93ae8.jpg"
-  },
-  {
-    "id": "9",
-    "category": "30",
-    "description": "Lacton agros nutrition aumentar leite vacas leiteira 1 litro" ,
-    "price": "R$ 171,42",
-    "promotion": "3%",
-    "image": "https://a-static.mlcdn.com.br/800x560/lacton-agros-nutrition-aumentar-leite-vacas-leiteira-1-litro/seupetweb/11169/9283052d13e4cfa2149a82d0cd8e009e.jpeg",
-    "image1": "https://a-static.mlcdn.com.br/800x560/lacton-agros-nutrition-aumentar-leite-vacas-leiteira-1-litro/seupetweb/11169/3cc845199b284c8280dd30388bfb447d.jpeg",
-    "image2": "https://a-static.mlcdn.com.br/800x560/lacton-agros-nutrition-aumentar-leite-vacas-leiteira-1-litro/seupetweb/11169/3bb77ff964e5b0cdbf0f7c8b5c8cc2b6.jpeg",
-    "image3": "https://a-static.mlcdn.com.br/800x560/lacton-agros-nutrition-aumentar-leite-vacas-leiteira-1-litro/seupetweb/11169/90345e9cc7f98dba98b7baeed44777c5.jpeg"
+    "id": "12",
+    "category": "40",
+    "description": "Smartphone Poco X5 Pro 5G 8 RAM 256GB PRETO - XAIOMI" ,
+    "price": "R$ 1.900",
+    "promotion": "20%",
+    "image": "https://a-static.mlcdn.com.br/800x560/smartphone-poco-x5-pro-5g-8gb-256gb-preto-xiaomi/simcomercio2/pcx55gpt256/9693025923c141e08e79ddb7ee47d392.jpeg",
+    "image1": "",
+    "image2": "",
+    "image3": ""
   },
   {
     "id": "10",
@@ -126,6 +104,17 @@
     "image3": "https://a-static.mlcdn.com.br/800x560/phos-ovinos-crescimento-ovelha-cabras-pronto-uso-30kg-agromix/seupetweb/12004/98fa0b4efc8fb71f0b5492a8c7963b0c.jpeg"
   },
   {
+    "id": "8",
+    "category": "20",
+    "description": "EA Sports FC 24 para PS4" ,
+    "price": "R$ 316,71",
+    "promotion": "12%",
+    "image": "https://a-static.mlcdn.com.br/800x560/ea-sports-fc-24-para-ps4/magazineluiza/237875300/db31027013074f86842abcb78ac66353.jpg",
+    "image1": "https://a-static.mlcdn.com.br/800x560/ea-sports-fc-24-para-ps4/magazineluiza/237875300/eb40731223c4e7c22fbd7a720f799ed1.jpg",
+    "image2": "https://a-static.mlcdn.com.br/800x560/ea-sports-fc-24-para-ps4/magazineluiza/237875300/8c204d207c46bbede73580b7077e1a67.jpg",
+    "image3": "https://a-static.mlcdn.com.br/800x560/ea-sports-fc-24-para-ps4/magazineluiza/237875300/8b23e8ee68c7d7618db98a0e72a93ae8.jpg"
+  },
+  {
     "id": "11",
     "category": "40",
     "description": "Smartphone Poco X5 Pro 5G 8 RAM 256GB PRETO - XAIOMI" ,
@@ -137,15 +126,26 @@
     "image3": ""
   },
   {
-    "id": "12",
-    "category": "40",
-    "description": "Smartphone Poco X5 Pro 5G 8 RAM 256GB PRETO - XAIOMI" ,
-    "price": "R$ 1.900",
-    "promotion": "20%",
-    "image": "https://a-static.mlcdn.com.br/800x560/smartphone-poco-x5-pro-5g-8gb-256gb-preto-xiaomi/simcomercio2/pcx55gpt256/9693025923c141e08e79ddb7ee47d392.jpeg",
-    "image1": "",
-    "image2": "",
-    "image3": ""
+    "id": "4",
+    "category": "10",
+    "description": "Mouse Sem Fio Logitech Signature M650, 2000 DPI, Compacto, 5 Botões, Silencioso, Bluetooth, USB, Grafite - 910-006250" ,
+    "price": "R$ 189,99",
+    "promotion": "15%",
+    "image": "https://a-static.mlcdn.com.br/800x560/mouse-sem-fio-logitech-signature-m650-2000-dpi-compacto-5-botoes-silencioso-bluetooth-usb-grafite-910-006250/kabum/303805/b72644d51ce09e0e65a16faaef75c798.jpeg",
+    "image1": "https://a-static.mlcdn.com.br/800x560/mouse-sem-fio-logitech-signature-m650-2000-dpi-compacto-5-botoes-silencioso-bluetooth-usb-grafite-910-006250/kabum/303805/eaa329dcf236bcc96133b0eefb0aebd9.jpeg",
+    "image2": "https://a-static.mlcdn.com.br/800x560/mouse-sem-fio-logitech-signature-m650-2000-dpi-compacto-5-botoes-silencioso-bluetooth-usb-grafite-910-006250/kabum/303805/a63b15f3b3009a26d56d4ee808f8fe77.jpeg",
+    "image3": "https://a-static.mlcdn.com.br/800x560/mouse-sem-fio-logitech-signature-m650-2000-dpi-compacto-5-botoes-silencioso-bluetooth-usb-grafite-910-006250/kabum/303805/c2e8b356c7662ceb8ab52c2f6a7f1205.jpeg"
+  },
+  {
+    "id": "9",
+    "category": "30",
+    "description": "Lacton agros nutrition aumentar leite vacas leiteira 1 litro" ,
+    "price": "R$ 171,42",
+    "promotion": "3%",
+    "image": "https://a-static.mlcdn.com.br/800x560/lacton-agros-nutrition-aumentar-leite-vacas-leiteira-1-litro/seupetweb/11169/9283052d13e4cfa2149a82d0cd8e009e.jpeg",
+    "image1": "https://a-static.mlcdn.com.br/800x560/lacton-agros-nutrition-aumentar-leite-vacas-leiteira-1-litro/seupetweb/11169/3cc845199b284c8280dd30388bfb447d.jpeg",
+    "image2": "https://a-static.mlcdn.com.br/800x560/lacton-agros-nutrition-aumentar-leite-vacas-leiteira-1-litro/seupetweb/11169/3bb77ff964e5b0cdbf0f7c8b5c8cc2b6.jpeg",
+    "image3": "https://a-static.mlcdn.com.br/800x560/lacton-agros-nutrition-aumentar-leite-vacas-leiteira-1-litro/seupetweb/11169/90345e9cc7f98dba98b7baeed44777c5.jpeg"
   }
 ]
 }
